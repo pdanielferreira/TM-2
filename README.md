@@ -1,4 +1,8 @@
 # TM-2
+
+Trabalho para a cadeira de Tecnologias Multimedia.
+FPS em Unity para matar waves de Zombies
+
 ### ASSETS
 * Zombie 
   * https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
