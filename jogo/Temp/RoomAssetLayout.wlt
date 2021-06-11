@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS/Prefabs/Level/Rooms
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\carlo\Desktop\TM-2\jogo
+  m_LastProjectPath: C:\Users\pedro\OneDrive\Documentos\GitHub\TM-2\jogo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
