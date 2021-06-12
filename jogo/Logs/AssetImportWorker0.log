@@ -249,3 +249,735 @@ Received Import Request.
 Start importing Assets/FPS/Scenes/Room1.unity using Guid(fc2c00a633bd92c43b822550d5ebf9d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b963d75144b2f09d38bc3adbc054931f') in 0.018161 seconds
   Import took 0.029695 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.910 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.2 MB.
+System memory in use after: 157.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2232.
+Total: 4.862600 ms (FindLiveObjects: 0.352200 ms CreateObjectMapping: 0.123700 ms MarkObjects: 4.162700 ms  DeleteObjects: 0.221800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1233.671705 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c530c6e6f8e8b31e3a90b9a2bb11a4b2') in 0.317919 seconds
+  Import took 0.370956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/FPS/Audio/SFX/Weapons/Launcher_Release.wav
+  artifactKey: Guid(0cacf9e8e361eb24e9101b28422f7c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Audio/SFX/Weapons/Launcher_Release.wav using Guid(0cacf9e8e361eb24e9101b28422f7c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196c46b47218ceecbfe9a7d2c00f9885') in 0.386243 seconds
+  Import took 0.392557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/FPS/Tutorials/BuildAndPublish/header-completed.png
+  artifactKey: Guid(f3cffb91162b24b428d0f2ab4831d5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Tutorials/BuildAndPublish/header-completed.png using Guid(f3cffb91162b24b428d0f2ab4831d5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61137e442af0e5002ef978d3d81acbaf') in 0.272554 seconds
+  Import took 0.304256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000965 seconds.
+  path: Assets/FPS/Audio/SFX/Weapons/Launcher_Explosion.wav
+  artifactKey: Guid(cba089de3eef16d46baeda4077140a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Audio/SFX/Weapons/Launcher_Explosion.wav using Guid(cba089de3eef16d46baeda4077140a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5be3e0ba1a7e322c36b52ec981f320') in 0.147721 seconds
+  Import took 0.160311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.780747 seconds.
+  path: Assets/FPS/Audio/SFX/Pickups/Pickup_Health.wav
+  artifactKey: Guid(8dfdbc346713580429db9079ad1ff964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Audio/SFX/Pickups/Pickup_Health.wav using Guid(8dfdbc346713580429db9079ad1ff964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd644bbd6eec667a9e15039f929507f90') in 0.069862 seconds
+  Import took 0.106516 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007373 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.2 MB.
+System memory in use after: 157.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2238.
+Total: 6.411000 ms (FindLiveObjects: 0.479700 ms CreateObjectMapping: 0.148300 ms MarkObjects: 5.593300 ms  DeleteObjects: 0.186200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 655.313194 seconds.
+  path: Assets/Survival Tools/Prefabs/battery.prefab
+  artifactKey: Guid(b741fa043c0908c499bb320804aa111b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/battery.prefab using Guid(b741fa043c0908c499bb320804aa111b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674ff2b492ee0d40c7f1ff999282352b') in 2.327316 seconds
+  Import took 2.365563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Survival Tools/Prefabs/flashlight.prefab
+  artifactKey: Guid(e3109ccf9db0f54408d5c02b496761c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/flashlight.prefab using Guid(e3109ccf9db0f54408d5c02b496761c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658b732582d0366d984b000b68abf3fe') in 2.174145 seconds
+  Import took 2.317962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Survival Tools/Prefabs/matchbox.prefab
+  artifactKey: Guid(38fb7ded0e1057f438e082c5f655bd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/matchbox.prefab using Guid(38fb7ded0e1057f438e082c5f655bd53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '981fd306007122c9582271deae3322fb') in 0.683754 seconds
+  Import took 0.696638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004077 seconds.
+  path: Assets/Survival Tools/Prefabs/waterbottle.prefab
+  artifactKey: Guid(57e3542e6c16dfd40972c0b1b0899afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/waterbottle.prefab using Guid(57e3542e6c16dfd40972c0b1b0899afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baefaa6c334b5d6d7eecf1ca52b6d73e') in 0.819267 seconds
+  Import took 0.832308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Survival Tools/Prefabs/firstaid.prefab
+  artifactKey: Guid(b55df95fa6211964e8ad561501250fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/firstaid.prefab using Guid(b55df95fa6211964e8ad561501250fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7eb018571304e82094615311fd5b37') in 2.212295 seconds
+  Import took 2.217647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000824 seconds.
+  path: Assets/Survival Tools/Prefabs/cannedfood.prefab
+  artifactKey: Guid(baa8d2066558c9a4ebcd1853c4c3ac4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/cannedfood.prefab using Guid(baa8d2066558c9a4ebcd1853c4c3ac4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0884b808955d3d8f8383ec19e27acb') in 0.062870 seconds
+  Import took 0.074187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Survival Tools/Prefabs/walkie.prefab
+  artifactKey: Guid(9b7d674bd208a2a4aa6f2ff5594f9c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/walkie.prefab using Guid(9b7d674bd208a2a4aa6f2ff5594f9c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133e24414588bebc3cb30f10dff25896') in 1.316238 seconds
+  Import took 1.324469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.138205 seconds.
+  path: Assets/Survival Tools/Prefabs/pills.prefab
+  artifactKey: Guid(48ec186542777474bb236dff1694340c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/pills.prefab using Guid(48ec186542777474bb236dff1694340c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49956fb10d92da5ad09e91822a8acb84') in 0.421348 seconds
+  Import took 0.470963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Survival Tools/Prefabs/tape.prefab
+  artifactKey: Guid(f2eb86ba579ab5c4db54a92a8f0c3b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Prefabs/tape.prefab using Guid(f2eb86ba579ab5c4db54a92a8f0c3b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550bade9bb83fec3a5320126e9c7cb84') in 0.390131 seconds
+  Import took 0.422768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.880125 seconds.
+  path: Assets/Survival Tools/Meshes/Backdrop.fbx
+  artifactKey: Guid(a4e2fb6568555044aad6812203693103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/Backdrop.fbx using Guid(a4e2fb6568555044aad6812203693103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746089c8b078ada6ab288d98cfa7de0e') in 1.046324 seconds
+  Import took 1.055807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Survival Tools/Meshes/matchbox.fbx
+  artifactKey: Guid(f971fb17c1faf124ab6fa78d9aa66a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/matchbox.fbx using Guid(f971fb17c1faf124ab6fa78d9aa66a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fffec6a71beb25262f34007448a3a44') in 0.218363 seconds
+  Import took 0.229934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Survival Tools/Meshes/tape.fbx
+  artifactKey: Guid(e2cb5de584611274ca2928dc4c9872c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/tape.fbx using Guid(e2cb5de584611274ca2928dc4c9872c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0c30736b6c9bb5d69ee8a30bfb33b3') in 0.319790 seconds
+  Import took 0.329717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Survival Tools/Meshes/battery.fbx
+  artifactKey: Guid(4bea82c2a612ef249aeea0a7f324dc9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/battery.fbx using Guid(4bea82c2a612ef249aeea0a7f324dc9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed222956bc2e36b8357829c7e6659d49') in 0.417332 seconds
+  Import took 0.465152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Survival Tools/Meshes/flashlight.fbx
+  artifactKey: Guid(38c8e162cafdc5f4bb9150c28d0f1fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/flashlight.fbx using Guid(38c8e162cafdc5f4bb9150c28d0f1fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bfd7c99313f7bbd376e568bf623bfe') in 0.136114 seconds
+  Import took 0.140582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Survival Tools/Meshes/cannedfood.fbx
+  artifactKey: Guid(fcc30f2beefeaf94e990407639b18736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/cannedfood.fbx using Guid(fcc30f2beefeaf94e990407639b18736) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec799d0873733f01fc025d24b5864272') in 0.122463 seconds
+  Import took 0.152379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Survival Tools/Meshes/pills.fbx
+  artifactKey: Guid(13c0f408a54463546a570585a55d00ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/pills.fbx using Guid(13c0f408a54463546a570585a55d00ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71155d06a63a7521a11377a941228e90') in 0.108669 seconds
+  Import took 0.120029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Survival Tools/Meshes/firstaid.fbx
+  artifactKey: Guid(334a15b23e6d31f44bef4858676d704a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/firstaid.fbx using Guid(334a15b23e6d31f44bef4858676d704a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecbb86c6b36fdf9586c4fe8205fef897') in 0.134559 seconds
+  Import took 0.138208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Survival Tools/Meshes/waterbottle.fbx
+  artifactKey: Guid(3f98ed3816ff31648a910c62376dc52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/waterbottle.fbx using Guid(3f98ed3816ff31648a910c62376dc52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f6e7cc02ac3f7ff384b13fcaaf604e') in 0.127668 seconds
+  Import took 0.134271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Survival Tools/Meshes/walkie.fbx
+  artifactKey: Guid(43fa95d65a848fd418105c6b7f7be836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Survival Tools/Meshes/walkie.fbx using Guid(43fa95d65a848fd418105c6b7f7be836) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac4e6ddce30ebb8565cba88f7b0af66') in 0.186001 seconds
+  Import took 0.206809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.444498 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887a7711288b37afd87affb862d94c3b') in 0.364747 seconds
+  Import took 0.378297 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003608 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in 11.962 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 13.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.1 MB.
+System memory in use after: 158.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2280.
+Total: 5.877800 ms (FindLiveObjects: 0.400100 ms CreateObjectMapping: 0.123900 ms MarkObjects: 5.208700 ms  DeleteObjects: 0.138200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.056056 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8202b195d5e71a02e9c7e124876d2f71') in 0.138173 seconds
+  Import took 0.154353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.336095 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd95993df38b704475c58bc83a3b3022') in 2.641252 seconds
+  Import took 2.730790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.022686 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a86f765a4fdc21e1b8559ec34d6e14') in 0.098754 seconds
+  Import took 0.213268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.660711 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfed71e0ae2aee4d52e209256bf848f8') in 0.249814 seconds
+  Import took 0.491278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.293875 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f100e0f115b029ce8df131ac8c1fb79d') in 0.250819 seconds
+  Import took 0.259838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.329376 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f185aa972abc4d7a375262c21e8b55d') in 0.275885 seconds
+  Import took 0.444304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.391006 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9562063d9998c7b76b1badc04caa165a') in 2.601170 seconds
+  Import took 2.922130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.470633 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88cc4d3443d74cfefe5e4f1bdcee3c53') in 2.579217 seconds
+  Import took 2.704506 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.091975 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in 11.290 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.2 MB.
+System memory in use after: 158.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 21.539300 ms (FindLiveObjects: 0.446700 ms CreateObjectMapping: 0.114200 ms MarkObjects: 20.801800 ms  DeleteObjects: 0.174500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.268270 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce87d2343fda26bb7043a9efe4bac760') in 0.254982 seconds
+  Import took 0.282152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.542194 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31ceaf47c7b1466c0d028777d4a92de9') in 0.214751 seconds
+  Import took 0.271221 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in 11.202 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.2 MB.
+System memory in use after: 158.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2288.
+Total: 31.959100 ms (FindLiveObjects: 20.920600 ms CreateObjectMapping: 0.369700 ms MarkObjects: 10.522100 ms  DeleteObjects: 0.140400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.134479 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a9bc40466a5e89e8e01d2f4d6b2dfd') in 0.691527 seconds
+  Import took 0.726524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.341148 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a494b5524f99cd8a85595d48886d5f64') in 0.507824 seconds
+  Import took 0.531682 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004527 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  5.502 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.2 MB.
+System memory in use after: 158.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2292.
+Total: 8.583400 ms (FindLiveObjects: 0.389500 ms CreateObjectMapping: 0.136500 ms MarkObjects: 7.892100 ms  DeleteObjects: 0.161500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.326992 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b40cbe578e74729706ef3050fafe692') in 0.743615 seconds
+  Import took 0.751781 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.035652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  9.304 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 9.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.0 MB.
+System memory in use after: 158.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 12.722700 ms (FindLiveObjects: 1.324700 ms CreateObjectMapping: 0.192500 ms MarkObjects: 11.065000 ms  DeleteObjects: 0.138900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.303 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.0 MB.
+System memory in use after: 158.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 3.452600 ms (FindLiveObjects: 0.684600 ms CreateObjectMapping: 0.193600 ms MarkObjects: 2.465100 ms  DeleteObjects: 0.107700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.954456 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5476b7bd44dd57e9fcbc1e6fdb00081d') in 0.147202 seconds
+  Import took 0.158805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.637536 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09f9af75b8e309e97aa736883f496ff') in 0.640196 seconds
+  Import took 1.324372 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009889 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in 16.563 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.0 MB.
+System memory in use after: 158.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 11.929300 ms (FindLiveObjects: 0.354500 ms CreateObjectMapping: 0.531200 ms MarkObjects: 10.917200 ms  DeleteObjects: 0.124200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.563489 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Loot_Health.prefab
+  artifactKey: Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Loot_Health.prefab using Guid(9973c412032becb4ca116ca08be62edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0772a47da1a9d3dae93d5818b5cb31ac') in 0.457255 seconds
+  Import took 0.466813 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008346 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.881 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.0 MB.
+System memory in use after: 158.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 43.057600 ms (FindLiveObjects: 0.839900 ms CreateObjectMapping: 2.320200 ms MarkObjects: 39.733000 ms  DeleteObjects: 0.162500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.195358 seconds.
+  path: Assets/FPS/Audio/SFX/Weapons/Blaster_Shot.wav
+  artifactKey: Guid(53d2238f4c4b2aa4f8e559c7af9e0126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Audio/SFX/Weapons/Blaster_Shot.wav using Guid(53d2238f4c4b2aa4f8e559c7af9e0126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0560333187bb8b554cbe06f94dbb85d') in 0.234885 seconds
+  Import took 0.241846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.300821 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Pickup_Blaster.prefab
+  artifactKey: Guid(fe0bc5bbccc19ef47a15b81c0abbb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Pickup_Blaster.prefab using Guid(fe0bc5bbccc19ef47a15b81c0abbb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1afa170d09ed8018ae7719c33f4b6fb2') in 0.202868 seconds
+  Import took 0.212465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab
+  artifactKey: Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab using Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69c0253ecbdd9c62131359db32d3a36') in 0.153933 seconds
+  Import took 0.169849 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002609 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.855 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.3 MB.
+System memory in use after: 158.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 7.050600 ms (FindLiveObjects: 0.859400 ms CreateObjectMapping: 0.463600 ms MarkObjects: 5.610600 ms  DeleteObjects: 0.113400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.770868 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Pickup_Blaster.prefab
+  artifactKey: Guid(fe0bc5bbccc19ef47a15b81c0abbb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Pickup_Blaster.prefab using Guid(fe0bc5bbccc19ef47a15b81c0abbb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3953ef73d953f44056c0f9d9affee3d9') in 0.185653 seconds
+  Import took 0.208901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab
+  artifactKey: Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab using Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9bfc84717ab23d01513b93cb31a46ca') in 0.165095 seconds
+  Import took 0.173232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.712883 seconds.
+  path: Assets/FPS/Prefabs/Pickups/Pickup_Blaster.prefab
+  artifactKey: Guid(fe0bc5bbccc19ef47a15b81c0abbb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Pickups/Pickup_Blaster.prefab using Guid(fe0bc5bbccc19ef47a15b81c0abbb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79ca59df80e6811fdcb7dc66edfa7df') in 0.124393 seconds
+  Import took 0.141138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000892 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab
+  artifactKey: Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab using Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02faa4d1a70d2c9c2971e7a368b610bf') in 0.211785 seconds
+  Import took 0.231612 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001426 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.470 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.3 MB.
+System memory in use after: 158.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 2.592600 ms (FindLiveObjects: 0.259400 ms CreateObjectMapping: 0.095500 ms MarkObjects: 2.116400 ms  DeleteObjects: 0.119500 ms)
+
