@@ -1,0 +1,670 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'pt' Physical Memory: 8058 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63524
+Successfully changed project path to: C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo
+C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 140.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/pedro/OneDrive/Documentos/GitHub/TM-2/jogo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   
+    VRAM:     2009 MB
+    Driver:   23.21.13.9135
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011180 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 293.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.126 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 4.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.211 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 3.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1775 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.3 MB.
+System memory in use after: 158.3 MB.
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 2223.
+Total: 8.434100 ms (FindLiveObjects: 0.293600 ms CreateObjectMapping: 0.109900 ms MarkObjects: 7.796900 ms  DeleteObjects: 0.231400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab
+  artifactKey: Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_Blaster.prefab using Guid(b318fabc73446b746a1005cede0c4ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db924347239175352ba62ffd5c904fd') in 0.469224 seconds
+  Import took 0.486247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001318 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f8aeeb1c39a2dcf2341382fd4adf75') in 0.384172 seconds
+  Import took 0.396474 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.1 MB.
+System memory in use after: 137.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2231.
+Total: 5.582900 ms (FindLiveObjects: 0.253400 ms CreateObjectMapping: 0.108100 ms MarkObjects: 5.114600 ms  DeleteObjects: 0.105200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.659451 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd2f26b037665bb99e2e7eccc98d107') in 0.085373 seconds
+  Import took 0.094644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.487707 seconds.
+  path: Assets/FPS/Scenes/nivel1.unity
+  artifactKey: Guid(dc57dbce41c8d4e4686a2be0987a6e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Scenes/nivel1.unity using Guid(dc57dbce41c8d4e4686a2be0987a6e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62b726591f7bc8f7d2cdd1dab55e4074') in 0.059283 seconds
+  Import took 0.461319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.847899 seconds.
+  path: Assets/FPS/Scenes/Scene1.unity
+  artifactKey: Guid(61e1df70cdac35444a4bdefdf685cd5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Scenes/Scene1.unity using Guid(61e1df70cdac35444a4bdefdf685cd5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c793110d7f4f60ee7d90345f0a6337b1') in 0.043081 seconds
+  Import took 0.059075 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004701 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.507 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.0 MB.
+System memory in use after: 171.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2234.
+Total: 14.255600 ms (FindLiveObjects: 0.473100 ms CreateObjectMapping: 0.726100 ms MarkObjects: 12.856800 ms  DeleteObjects: 0.196500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.028805 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a94df893263b5a33af5ded4c439cae') in 0.206218 seconds
+  Import took 0.215484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.665773 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c88167fdff12588bd3d25259809279') in 0.073020 seconds
+  Import took 0.107440 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003583 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.373 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.0 MB.
+System memory in use after: 171.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2238.
+Total: 16.225200 ms (FindLiveObjects: 0.457100 ms CreateObjectMapping: 0.559600 ms MarkObjects: 15.052600 ms  DeleteObjects: 0.152200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 189.334886 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4189c624f940a5edc6e971b34bbf0c61') in 0.167948 seconds
+  Import took 0.183977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.982793 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b64d8827a8e78878cf03a335a8f736') in 0.055768 seconds
+  Import took 0.092946 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.0 MB.
+System memory in use after: 171.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2242.
+Total: 11.588200 ms (FindLiveObjects: 1.564200 ms CreateObjectMapping: 0.258800 ms MarkObjects: 9.651800 ms  DeleteObjects: 0.110800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.988605 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f640decbb5278650c5bc8323bc6ff5e3') in 0.244332 seconds
+  Import took 0.258065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.199174 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427269f63e35bb2c3c4b4abc6c6faccc') in 0.077580 seconds
+  Import took 0.102508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.010896 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe66e8729ce397fa7f5896c43cb9f824') in 0.089421 seconds
+  Import took 0.153773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.303915 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27f55094bf207412def514f5ce4dbbe') in 0.069627 seconds
+  Import took 0.149837 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003188 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.1 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 14.333700 ms (FindLiveObjects: 0.394600 ms CreateObjectMapping: 0.147000 ms MarkObjects: 13.637300 ms  DeleteObjects: 0.147000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.936867 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ce6468feb76307f4ab4f825f58e75e') in 0.191128 seconds
+  Import took 0.206429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.472895 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af31e476ff9240f4130aa4c44e59afc') in 0.050451 seconds
+  Import took 0.059828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.143008 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e6e536444483a0a4c3850754b9f3dc') in 0.054793 seconds
+  Import took 0.081578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.884560 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d24f17085ea18c7cb5bf1703f82306') in 0.083534 seconds
+  Import took 0.141202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.453218 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2fd5f241972c653f0c5abb674839078') in 0.132257 seconds
+  Import took 0.338560 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.864 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.1 MB.
+System memory in use after: 171.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 14.353100 ms (FindLiveObjects: 0.425100 ms CreateObjectMapping: 0.145300 ms MarkObjects: 13.654100 ms  DeleteObjects: 0.126500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.337764 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6e4128c0e66f4bf53801e0f2b35ae7b') in 0.242364 seconds
+  Import took 0.268305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.080990 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46cbfcaabf6a4807e6c8619d3238b197') in 0.201118 seconds
+  Import took 0.230473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.119381 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad8885f018f1555b85e615c5887265a') in 0.067013 seconds
+  Import took 0.092590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.068703 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb87a6c7c65bf9fd899b6b9edc8a462') in 0.067581 seconds
+  Import took 0.097163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.624675 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6cf14d67fadada9a37154f6a5766918') in 0.106382 seconds
+  Import took 0.142744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.635140 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4ee31aa1ec561d3905833b7abdcc7b') in 0.074739 seconds
+  Import took 0.104853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.311109 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c2854ea71a940b2e41a7fafb22503a') in 0.101368 seconds
+  Import took 0.117953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.574869 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928c9c3136a96deb2ffe29167318a37d') in 0.043191 seconds
+  Import took 0.091378 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.055883 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.976 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2254.
+Total: 16.707300 ms (FindLiveObjects: 3.382400 ms CreateObjectMapping: 0.286900 ms MarkObjects: 12.881000 ms  DeleteObjects: 0.154100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.782065 seconds.
+  path: Assets/FPS/Prefabs/Enemies
+  artifactKey: Guid(18823e7e7ece9234c8632787001b69a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Enemies using Guid(18823e7e7ece9234c8632787001b69a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abf5e7ef4bb182d8ecb90797ff878a8') in 0.056458 seconds
+  Import took 0.064793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.133634 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f207c90cf7c7f60d133a201e78e9d9') in 0.292601 seconds
+  Import took 0.342611 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015555 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.167 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 12.956600 ms (FindLiveObjects: 6.310100 ms CreateObjectMapping: 0.256700 ms MarkObjects: 6.117000 ms  DeleteObjects: 0.261400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.243837 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9fdf68f8f84f6b6ff48eb7a8b6e8ff') in 0.199340 seconds
+  Import took 0.214408 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.387 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 8.883500 ms (FindLiveObjects: 0.329800 ms CreateObjectMapping: 0.086200 ms MarkObjects: 8.348300 ms  DeleteObjects: 0.116600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.679646 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b657edbf400d63bff3cfb117eccc03d') in 0.371921 seconds
+  Import took 0.383231 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002988 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.445 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2266.
+Total: 4.361900 ms (FindLiveObjects: 0.434900 ms CreateObjectMapping: 0.105600 ms MarkObjects: 3.644400 ms  DeleteObjects: 0.174900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.124923 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ae9f74e9a45371bb274f27bc980240') in 0.214724 seconds
+  Import took 0.265243 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010235 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.530 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2270.
+Total: 4.081400 ms (FindLiveObjects: 0.674600 ms CreateObjectMapping: 0.249800 ms MarkObjects: 3.056200 ms  DeleteObjects: 0.099300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.143730 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '625946970cf0e2befd1b1e964251f03e') in 0.134018 seconds
+  Import took 0.141444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.666019 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6aed0c8b7991ab39b1ab6a869ebb11e') in 0.082460 seconds
+  Import took 0.101743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.064558 seconds.
+  path: Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab
+  artifactKey: Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Prefabs/Weapons/Weapon_AK.prefab using Guid(462f4b46da06b924586352d31c21df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd144de9cfcfada0c5aab9ad3b717bc3') in 0.053761 seconds
+  Import took 0.106760 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.018815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.631 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.2 MB.
+System memory in use after: 171.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2274.
+Total: 5.132600 ms (FindLiveObjects: 1.077700 ms CreateObjectMapping: 0.148300 ms MarkObjects: 3.779300 ms  DeleteObjects: 0.125000 ms)
+
