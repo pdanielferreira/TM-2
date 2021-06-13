@@ -54,3 +54,15 @@ The following packages were added:
   com.unity.connect.share@4.1.1
   com.unity.learn.iet-framework@1.2.3
   com.unity.probuilder@4.5.0
+
+=== Sun Jun 13 19:05:24 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.ads@2.0.8
+  com.unity.analytics@3.3.2
+  com.unity.package-manager-ui@2.1.2
+  com.unity.purchasing@2.0.6
+  com.unity.render-pipelines.high-definition@5.13.0-preview
